@@ -7,4 +7,4 @@
 
 4.Kmeans.py: implement Kmeans and SVMs with scikit-learn
 
-5.Neural network and RNN.ipnb: Implement MLPs and RNN
+5.Neural network and RNN.ipynb: Implement MLPs and RNN
